@@ -1,1 +1,56 @@
+"usersArray":["Bomboscha","tim","Maks_Malewish","0000","Robot2014"]
+"users":{
+    "Bomboscha":{
+        "class":"username red moderator",
+        "style":"-",
+        "rigths":"admin",
+        "medals":[],
+        "medal-names":[],
+        "rank":"Разратаптчик ара",
+        "nick":"-"
+    },
+    "tim":{
+        "class":"-",
+        "style":"-",
+        "rights":"admin",
+        "medals":[],
+        "medal-names":[],
+        "rank":"Папка Мух, и по совместительству создатель Ара",
+        "nick":"-"
+    },
+    "Maks_Malewish":{
+        "class":"username anonymous",
+        "style":"remove",
+        "rights":"user",
+        "medals":[],
+        "medal-names":[],
+        "rank":"Нелетающая булка",
+        "nick":"Акроним"
+    },
+    "0000":{
+        "class":"-",
+        "style":"-",
+        "rights":"user",
+        "medals":[],
+        "medal-names":[],
+        "rank":"ФЫВФЫВФЫВ",
+        "nick":"Нулик"
+    },
+    "Robot2014":{
+        "class":"username red",
+        "style":"-",
+        "rights":"user",
+        "medals":[],
+        "medal-names":[],
+        "rank":"-",
+        "nick":"-"
+    }
 
+},
+"toons":{
+    "contest":[],
+    "winner":[],
+    "red":[],
+    "crown":[],
+    "kiskis":[]
+}
