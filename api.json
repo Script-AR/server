@@ -1,4 +1,4 @@
-"usersArray":["Bomboscha","tim","Maks_Malewish","0000","Robot2014"]
+{"usersArray":["Bomboscha","tim","Maks_Malewish","0000","Robot2014"]
 "users":{
     "Bomboscha":{
         "class":"username red moderator",
@@ -53,4 +53,5 @@
     "red":[],
     "crown":[],
     "kiskis":[]
+}
 }
